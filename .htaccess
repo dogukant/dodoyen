@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteRule ^anasayfa index.php [L,NC]
+RewriteRule ^hakkımızda hakkimizda.php [L,NC]
+RewriteRule ^iletisim iletisim.php [L,NC]
+RewriteRule ^subeler subeler.php [L,NC]
+RewriteRule ^dodofitliol fiyatlar.php [L,NC]
